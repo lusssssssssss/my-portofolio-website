@@ -1,0 +1,16 @@
+:root {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: Helvetica;
+}
